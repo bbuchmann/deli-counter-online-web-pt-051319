@@ -1,2 +1,3 @@
-Take_a_number = "The line is currently empty"
-puts 
+Katz_deli = 7
+puts "take a number"
+end 
